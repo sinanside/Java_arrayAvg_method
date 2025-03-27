@@ -1,5 +1,4 @@
 public class Main {
-    public class ArrayAverage {
         public static void main(String[] args) {
             int[] array = {1, 2, 3, 4, 5};
             double average = calculateAverage(array);
@@ -13,5 +12,4 @@ public class Main {
             }
             return (double) sum / array.length;
         }
-    }
 }
