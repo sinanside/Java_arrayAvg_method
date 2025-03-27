@@ -1,1 +1,1 @@
-Bir dizinin elemanlarinin ortalamasini donduren metot
+Bir dizinin elemanlarinin ortalamasini donduren metot 
